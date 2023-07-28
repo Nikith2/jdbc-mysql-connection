@@ -1,0 +1,7 @@
+//table creation
+CREATE TABLE emp(
+        eno int NOT NULL ,  
+        name varchar(45) NOT NULL,  
+        age int NOT NULL,  
+        PRIMARY KEY (eno)  
+);
